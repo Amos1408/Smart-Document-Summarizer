@@ -1,0 +1,30 @@
+# Smart-Document-Summarizer
+# Smart Document Summarizer & Q&A Assistant
+
+## Overview
+A Generative AI-based application designed to summarize documents
+and support question answering using semantic search techniques.
+
+## Features
+- Document text extraction
+- Text chunking
+- Embedding generation
+- Vector storage using ChromaDB
+- Semantic search workflow
+
+## Technologies Used
+- Python
+- ChromaDB
+- LangChain Fundamentals
+- Generative AI
+- Vector Embeddings
+
+## Current Progress
+Implemented chunking, embedding generation, and vector database storage.
+Currently working on retrieval and LLM-based response generation.
+
+## Future Improvements
+- Retrieval-Augmented Generation (RAG)
+- Context-aware question answering
+- Interactive UI
+- Multi-document support
