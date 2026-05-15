@@ -9,12 +9,12 @@ and support question answering using semantic search techniques.
 - Document text extraction
 - Text chunking
 - Embedding generation
-- Vector storage using ChromaDB
+- Vector storage using faiss
 - Semantic search workflow
 
 ## Technologies Used
 - Python
-- ChromaDB
+- Faiss
 - LangChain Fundamentals
 - Generative AI
 - Vector Embeddings
@@ -23,8 +23,10 @@ and support question answering using semantic search techniques.
 Implemented chunking, embedding generation, and vector database storage.
 Currently working on retrieval and LLM-based response generation.
 
-## Future Improvements
+## Improvements
 - Retrieval-Augmented Generation (RAG)
 - Context-aware question answering
+
+#Future Improvements
 - Interactive UI
 - Multi-document support
